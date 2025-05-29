@@ -1,0 +1,4 @@
+Environment/
+.env
+.streamlit/secrets.toml
+.cursorignore
