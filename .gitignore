@@ -2,3 +2,4 @@ Environment/
 .env
 .streamlit/secrets.toml
 .cursorignore
+notebook.ipynb
